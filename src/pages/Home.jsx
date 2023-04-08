@@ -24,7 +24,7 @@ const Home = () => {
         </Link>
       </div>
       </div>
-      <img src="/src/assets/images/hero-bf3d5e6d.jpg" alt="" className="w-5/6 mx-auto mb-12 -mt-12 lg:-mt-20 rounded-lg shadow-md bg-gray-500" />
+      <img src="/src/assets/images/hero-bf3d5e6d.jpg" alt="" className="w-5/6 mx-auto mb-12 -mt-20 lg:-mt-20 rounded-lg shadow-md bg-gray-500" />
     </div>
   );
 };
